@@ -1,0 +1,65 @@
+{
+   "texto": [
+      {
+         "titulo": "0 -Tubos",
+         "descricao": "Você acorda derrepente. Sua visão está embaçada e as formas não são claras. Sua cabeça doi. \nDepois de alguns segundos, sua visão se adapta a fraca iluminação e, com algum esforço, você consegue entender onde está: \nDentro de um mecanismo cilindrico, numa sala esquecida.",
+         "instrucao": "Você sai do tubo ou continua la dentro?",
+         "opção1": "vc sai do tubo",
+         "opção2": "você fica ali igual um tonto",
+         "voltar": "Não há para onde voltar.",
+         "sair": "...",
+         "else": "A escuridão da sala faz com que suas pernas não se movam. Seu corpo fica paralizado por minutos antes que você volte a assumir o controle."
+      },
+      {
+         "titulo": "1 - Sala dos Tubos",
+         "descricao": "Sala com tubos, um terminal e uma porta.",
+         "instrucao": "Você pode usar o terminal para tentar destravar a porta ou forçar a porta para resolver na formça bruta.",
+         "opção1": "o terminal tem alguma fonte de alimentação e você consegue acessar um painel de serviços. O funcionamento da porta está desativado, mas rapidamente você é capaz de alterar o estado para 'Ativo' e a porta volta a funcionar.\nVocê avança.",
+         "opção2": "Porrada e a porta abre!",
+         "olhar": "Olhar para os tubos da uma descrição deles pelo lado de fora.",
+         "voltar": "texto da opção de voltar pra sala anterior",
+         "sair": "mensagem referente a sair do jogo",
+         "else": "mensagem desoladora"
+      },
+      {
+         "titulo": "2 - Corredor em Ruínas",
+         "descricao": "descrição da sala",
+         "instrucao": "Você sai do tubo ou continua la dentro?",
+         "opção1": "texto da opção 1",
+         "opção2": "texto da opção 2",
+         "voltar": "texto da opção de voltar pra sala anterior",
+         "sair": "mensagem referente a sair do jogo",
+         "else": "mensagem desoladora"
+      },
+      {
+         "titulo": "3 - titulo da sala",
+         "descricao": "descrição da sala",
+         "instrucao": "Você sai do tubo ou continua la dentro?",
+         "opção1": "texto da opção 1",
+         "opção2": "texto da opção 2",
+         "voltar": "texto da opção de voltar pra sala anterior",
+         "sair": "mensagem referente a sair do jogo",
+         "else": "mensagem desoladora"
+      },
+      {
+         "titulo": "4 - titulo da sala",
+         "descricao": "descrição da sala",
+         "instrucao": "Você sai do tubo ou continua la dentro?",
+         "opção1": "texto da opção 1",
+         "opção2": "texto da opção 2",
+         "voltar": "texto da opção de voltar pra sala anterior",
+         "sair": "mensagem referente a sair do jogo",
+         "else": "mensagem desoladora"
+      },
+      {
+         "titulo": "5 - titulo da sala",
+         "descricao": "descrição da sala",
+         "instrucao": "Você sai do tubo ou continua la dentro?",
+         "opção1": "texto da opção 1",
+         "opção2": "texto da opção 2",
+         "voltar": "texto da opção de voltar pra sala anterior",
+         "sair": "mensagem referente a sair do jogo",
+         "else": "mensagem desoladora"
+      }
+   ]
+}
